@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,Region,Category,Sub-Category,Product Name,Sales,Quantity,Profit
+CA-2026-100446,2025-09-01,2025-09-04,Standard Class,Corporate,East,Furniture,Tables,Table Model Pro,1968.86,5,232.29
+CA-2026-100263,2025-09-02,2025-09-06,First Class,Consumer,South,Electronics,Headphones,Headphone Model Pro,897.52,4,158.81
+CA-2026-100206,2025-09-02,2025-09-05,First Class,Home Office,West,Furniture,Chairs,Chair Model Pro,95.45,1,-6.94
+CA-2026-100063,2025-09-02,2025-09-07,Standard Class,Consumer,Central,Furniture,Chairs,Chair Model Z,377.91,1,126.29
+CA-2026-100496,2025-09-04,2025-09-06,Same Day,Consumer,East,Office Supplies,Storage,Storage Model Z,146.7,2,28.57
+CA-2026-100325,2025-09-04,2025-09-07,Standard Class,Consumer,Central,Furniture,Furnishings,Furnishing Model Z,179.38,1,68.28
+CA-2026-100128,2025-09-05,2025-09-10,Standard Class,Consumer,West,Furniture,Chairs,Chair Model Z,1382.93,4,479.73
+CA-2026-100415,2025-09-05,2025-09-10,Second Class,Consumer,West,Electronics,Accessories,Accessorie Model Pro,563.22,5,183.46
+CA-2026-100334,2025-09-06,2025-09-09,Standard Class,Corporate,East,Office Supplies,Binders,Binder Model Pro,71.68,2,26.19
+CA-2026-100097,2025-09-09,2025-09-11,Standard Class,Consumer,East,Furniture,Furnishings,Furnishing Model Y,392.17,3,-73.14
+CA-2026-100269,2025-09-09,2025-09-12,Standard Class,Consumer,West,Office Supplies,Art,Art Model Pro,194.21,4,27.82
+CA-2026-100484,2025-09-10,2025-09-13,Standard Class,Corporate,South,Furniture,Chairs,Chair Model Z,399.01,2,113.77
+CA-2026-100151,2025-09-13,2025-09-15,Second Class,Consumer,West,Furniture,Bookcases,Bookcase Model Y,615.39,5,163.7
+CA-2026-100378,2025-09-13,2025-09-18,Standard Class,Consumer,East,Office Supplies,Storage,Storage Model Z,22.35,1,7.14
+CA-2026-100050,2025-09-14,2025-09-19,Standard Class,Corporate,South,Electronics,Headphones,Headphone Model Lite,706.91,1,130.6
+CA-2026-100134,2025-09-15,2025-09-17,Standard Class,Consumer,West,Office Supplies,Paper,Paper Model Y,49.49,1,11.69
+CA-2026-100092,2025-09-15,2025-09-17,Standard Class,Home Office,East,Electronics,Smartphones,Smartphone Model X,1685.59,5,336.67
+CA-2026-100497,2025-09-16,2025-09-19,First Class,Consumer,South,Office Supplies,Paper,Paper Model Pro,8.34,1,2.59
+CA-2026-100329,2025-09-17,2025-09-21,Standard Class,Consumer,East,Office Supplies,Art,Art Model Z,115.51,3,20.1
+CA-2026-100352,2025-09-18,2025-09-22,Standard Class,Corporate,South,Office Supplies,Art,Art Model Lite,301.49,5,119.11
+CA-2026-100383,2025-09-20,2025-09-24,Standard Class,Consumer,East,Electronics,Laptops,Laptop Model Y,2394.49,5,344.64
+CA-2026-100044,2025-09-21,2025-09-24,Standard Class,Home Office,South,Office Supplies,Art,Art Model Y,40.7,2,6.34
+CA-2026-100006,2025-09-21,2025-09-25,Second Class,Consumer,Central,Office Supplies,Paper,Paper Model X,38.58,1,14.95
+CA-2026-100307,2025-09-22,2025-09-26,Second Class,Consumer,East,Furniture,Bookcases,Bookcase Model Lite,1729.82,4,185.94
+CA-2026-100025,2025-09-22,2025-09-26,Second Class,Corporate,West,Office Supplies,Art,Art Model Lite,372.32,5,108.09
+CA-2026-100482,2025-09-23,2025-09-25,Standard Class,Consumer,East,Furniture,Furnishings,Furnishing Model Y,893.2,2,285.0
+CA-2026-100375,2025-09-26,2025-09-28,Standard Class,Home Office,Central,Office Supplies,Binders,Binder Model Lite,69.29,2,10.19
+CA-2026-100316,2025-09-27,2025-09-30,Standard Class,Corporate,West,Electronics,Laptops,Laptop Model Pro,451.64,2,49.24
+CA-2026-100164,2025-09-28,2025-10-01,First Class,Consumer,West,Office Supplies,Storage,Storage Model Z,277.16,4,74.02
+CA-2026-100109,2025-09-28,2025-09-30,Standard Class,Corporate,West,Furniture,Tables,Table Model Lite,845.68,4,236.2
+CA-2026-100149,2025-09-29,2025-10-03,Standard Class,Corporate,Central,Electronics,Accessories,Accessorie Model X,1529.22,2,315.52
+CA-2026-100114,2025-10-03,2025-10-08,Second Class,Consumer,Central,Electronics,Headphones,Headphone Model Lite,307.73,5,54.14
+CA-2026-100305,2025-10-03,2025-10-06,Standard Class,Consumer,East,Office Supplies,Binders,Binder Model X,129.72,3,14.93
+CA-2026-100326,2025-10-05,2025-10-10,First Class,Corporate,East,Electronics,Smartphones,Smartphone Model Pro,567.9,3,215.0
+CA-2026-100058,2025-10-05,2025-10-10,Standard Class,Corporate,South,Furniture,Furnishings,Furnishing Model Lite,621.69,3,195.08
+CA-2026-100123,2025-10-05,2025-10-10,Standard Class,Home Office,South,Office Supplies,Art,Art Model Pro,79.78,5,25.66
+CA-2026-100150,2025-10-06,2025-10-11,Second Class,Consumer,West,Office Supplies,Binders,Binder Model Z,64.38,3,-1.59
+CA-2026-100381,2025-10-06,2025-10-10,Second Class,Consumer,Central,Office Supplies,Binders,Binder Model Z,261.18,5,85.07
+CA-2026-100337,2025-10-07,2025-10-09,Second Class,Corporate,South,Office Supplies,Storage,Storage Model Pro,56.54,3,12.95
+CA-2026-100267,2025-10-07,2025-10-12,Second Class,Home Office,Central,Office Supplies,Storage,Storage Model Pro,22.41,2,4.27
+CA-2026-100310,2025-10-08,2025-10-12,Standard Class,Home Office,Central,Office Supplies,Storage,Storage Model Z,26.08,1,5.58
+CA-2026-100372,2025-10-09,2025-10-11,Standard Class,Corporate,South,Furniture,Bookcases,Bookcase Model X,1347.88,4,238.04
+CA-2026-100249,2025-10-09,2025-10-13,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Pro,170.58,3,50.78
+CA-2026-100476,2025-10-09,2025-10-14,Standard Class,Consumer,East,Electronics,Headphones,Headphone Model Lite,718.25,2,286.35
+CA-2026-100090,2025-10-11,2025-10-13,Second Class,Home Office,West,Furniture,Tables,Table Model Lite,991.35,5,219.44
+CA-2026-100108,2025-10-11,2025-10-16,Standard Class,Corporate,Central,Furniture,Tables,Table Model Y,1637.69,5,463.47
+CA-2026-100136,2025-10-12,2025-10-15,Standard Class,Corporate,West,Electronics,Laptops,Laptop Model Lite,1853.51,5,546.41
+CA-2026-100166,2025-10-14,2025-10-17,First Class,Home Office,West,Furniture,Bookcases,Bookcase Model Y,1005.75,3,152.38
+CA-2026-100070,2025-10-14,2025-10-16,Same Day,Corporate,South,Electronics,Accessories,Accessorie Model Y,513.85,1,184.22
+CA-2026-100160,2025-10-15,2025-10-17,Standard Class,Consumer,West,Furniture,Tables,Table Model Z,2270.8,5,468.42
+CA-2026-100333,2025-10-16,2025-10-18,Standard Class,Consumer,West,Office Supplies,Binders,Binder Model X,22.06,4,6.6
+CA-2026-100470,2025-10-17,2025-10-20,Standard Class,Consumer,East,Office Supplies,Binders,Binder Model X,17.9,3,6.36
+CA-2026-100421,2025-10-17,2025-10-20,First Class,Consumer,East,Office Supplies,Paper,Paper Model Pro,111.95,2,12.36
+CA-2026-100452,2025-10-18,2025-10-21,Standard Class,Consumer,West,Office Supplies,Art,Art Model Z,184.9,5,28.18
+CA-2026-100115,2025-10-18,2025-10-23,First Class,Home Office,West,Electronics,Smartphones,Smartphone Model X,387.69,2,-46.6
+CA-2026-100328,2025-10-19,2025-10-21,Standard Class,Corporate,South,Furniture,Furnishings,Furnishing Model Y,329.99,1,128.84
+CA-2026-100029,2025-10-19,2025-10-24,Standard Class,Corporate,Central,Electronics,Laptops,Laptop Model X,555.51,4,121.85
+CA-2026-100061,2025-10-20,2025-10-22,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Model X,184.71,3,51.2
+CA-2026-100313,2025-10-21,2025-10-24,Second Class,Consumer,South,Office Supplies,Storage,Storage Model Pro,111.61,2,42.27
+CA-2026-100394,2025-10-21,2025-10-24,Standard Class,Home Office,West,Electronics,Laptops,Laptop Model Y,2450.83,5,333.6
+CA-2026-100036,2025-10-21,2025-10-25,Standard Class,Consumer,South,Furniture,Tables,Table Model Y,465.66,1,117.25
+CA-2026-100197,2025-10-22,2025-10-26,Standard Class,Consumer,South,Electronics,Accessories,Accessorie Model X,2632.22,4,734.78
+CA-2026-100142,2025-10-22,2025-10-24,Standard Class,Consumer,East,Electronics,Headphones,Headphone Model Y,735.53,3,108.96
+CA-2026-100412,2025-10-23,2025-10-27,Standard Class,Home Office,South,Office Supplies,Binders,Binder Model Lite,65.42,1,10.98
+CA-2026-100085,2025-10-23,2025-10-27,Standard Class,Consumer,South,Electronics,Headphones,Headphone Model Lite,998.15,2,174.82
+CA-2026-100215,2025-10-23,2025-10-27,First Class,Consumer,West,Office Supplies,Art,Art Model Lite,70.14,3,25.7
+CA-2026-100054,2025-10-23,2025-10-25,Standard Class,Consumer,South,Electronics,Smartphones,Smartphone Model X,439.19,2,83.97
+CA-2026-100355,2025-10-24,2025-10-28,Standard Class,Consumer,South,Office Supplies,Binders,Binder Model Z,284.5,5,47.78
+CA-2026-100409,2025-10-24,2025-10-27,Second Class,Consumer,East,Office Supplies,Paper,Paper Model Y,69.24,3,12.56
+CA-2026-100209,2025-10-24,2025-10-29,First Class,Consumer,Central,Electronics,Headphones,Headphone Model X,670.89,3,231.11
+CA-2026-100064,2025-10-24,2025-10-27,Standard Class,Consumer,South,Furniture,Furnishings,Furnishing Model Y,812.96,5,-155.69
+CA-2026-100277,2025-10-24,2025-10-29,Standard Class,Home Office,Central,Furniture,Tables,Table Model Lite,161.97,1,52.23
+CA-2026-100038,2025-10-25,2025-10-27,Standard Class,Corporate,East,Electronics,Accessories,Accessorie Model Lite,290.27,2,53.63
+CA-2026-100356,2025-10-28,2025-10-30,Second Class,Corporate,Central,Office Supplies,Binders,Binder Model Z,51.05,1,13.95
+CA-2026-100436,2025-10-28,2025-11-01,Second Class,Consumer,West,Electronics,Accessories,Accessorie Model Lite,1681.71,4,176.34
+CA-2026-100444,2025-10-28,2025-11-02,Standard Class,Corporate,West,Furniture,Furnishings,Furnishing Model Pro,705.2,4,118.39
+CA-2026-100402,2025-10-28,2025-11-02,First Class,Corporate,Central,Furniture,Furnishings,Furnishing Model Pro,861.36,4,-148.94
+CA-2026-100030,2025-10-29,2025-11-02,Standard Class,Consumer,West,Furniture,Furnishings,Furnishing Model Z,932.41,4,-178.11
+CA-2026-100262,2025-10-30,2025-11-01,Standard Class,Home Office,West,Office Supplies,Art,Art Model Lite,129.74,2,24.63
+CA-2026-100413,2025-10-30,2025-11-03,First Class,Consumer,South,Electronics,Headphones,Headphone Model Pro,331.49,1,-59.98
+CA-2026-100116,2025-11-01,2025-11-05,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Model X,339.93,5,102.57
+CA-2026-100161,2025-11-01,2025-11-06,Second Class,Consumer,East,Furniture,Tables,Table Model Z,248.49,2,63.56
+CA-2026-100397,2025-11-02,2025-11-05,First Class,Consumer,South,Office Supplies,Binders,Binder Model Z,145.16,4,21.96
+CA-2026-100101,2025-11-02,2025-11-06,Standard Class,Corporate,East,Office Supplies,Binders,Binder Model X,34.82,1,5.63
+CA-2026-100138,2025-11-02,2025-11-06,Standard Class,Home Office,South,Electronics,Smartphones,Smartphone Model Pro,1346.44,5,143.5
+CA-2026-100094,2025-11-04,2025-11-07,Standard Class,Consumer,West,Furniture,Chairs,Chair Model Z,629.15,2,182.26
+CA-2026-100158,2025-11-05,2025-11-09,Second Class,Consumer,East,Electronics,Laptops,Laptop Model Z,1797.9,3,266.82
+CA-2026-100298,2025-11-07,2025-11-12,Standard Class,Corporate,East,Office Supplies,Binders,Binder Model Pro,102.83,5,38.31
+CA-2026-100458,2025-11-08,2025-11-12,Standard Class,Consumer,South,Office Supplies,Art,Art Model Y,234.42,4,60.4
+CA-2026-100469,2025-11-08,2025-11-12,Same Day,Consumer,East,Office Supplies,Binders,Binder Model Pro,292.05,5,51.5
+CA-2026-100004,2025-11-11,2025-11-16,Second Class,Consumer,East,Office Supplies,Paper,Paper Model Lite,193.75,3,22.99
+CA-2026-100281,2025-11-14,2025-11-19,Second Class,Corporate,East,Electronics,Headphones,Headphone Model Y,433.5,3,167.09
+CA-2026-100462,2025-11-15,2025-11-19,Standard Class,Consumer,Central,Furniture,Bookcases,Bookcase Model Pro,771.81,5,223.91
+CA-2026-100060,2025-11-20,2025-11-22,Standard Class,Home Office,East,Office Supplies,Art,Art Model Lite,174.35,3,68.95
+CA-2026-100203,2025-11-20,2025-11-23,Standard Class,Consumer,South,Office Supplies,Art,Art Model Pro,19.09,1,5.9
+CA-2026-100103,2025-11-20,2025-11-25,Standard Class,Consumer,East,Office Supplies,Art,Art Model Pro,135.64,5,-10.75
+CA-2026-100156,2025-11-25,2025-11-27,Standard Class,Corporate,East,Electronics,Laptops,Laptop Model Z,2852.31,5,385.82
+CA-2026-100465,2025-11-25,2025-11-29,Standard Class,Corporate,East,Office Supplies,Paper,Paper Model Y,30.7,1,3.94
+CA-2026-100011,2025-11-27,2025-12-01,Standard Class,Consumer,South,Electronics,Headphones,Headphone Model Lite,384.16,1,44.18
+CA-2026-100453,2025-11-28,2025-12-01,Standard Class,Home Office,East,Electronics,Headphones,Headphone Model Y,244.75,1,95.35
+CA-2026-100048,2025-11-28,2025-11-30,Second Class,Corporate,East,Electronics,Laptops,Laptop Model Lite,3384.35,5,1042.67
+CA-2026-100056,2025-12-01,2025-12-03,Same Day,Consumer,South,Office Supplies,Storage,Storage Model Lite,155.03,2,46.34
+CA-2026-100388,2025-12-01,2025-12-04,Standard Class,Consumer,South,Office Supplies,Paper,Paper Model Y,29.39,1,5.34
+CA-2026-100435,2025-12-01,2025-12-04,Standard Class,Corporate,South,Office Supplies,Binders,Binder Model Y,135.15,2,46.89
+CA-2026-100471,2025-12-03,2025-12-08,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Z,307.29,4,78.16
+CA-2026-100342,2025-12-04,2025-12-08,First Class,Home Office,East,Office Supplies,Art,Art Model Pro,72.68,1,23.25
+CA-2026-100449,2025-12-05,2025-12-10,Same Day,Consumer,Central,Office Supplies,Art,Art Model Pro,20.44,1,-2.73
+CA-2026-100143,2025-12-05,2025-12-09,First Class,Home Office,Central,Electronics,Accessories,Accessorie Model Pro,514.34,5,153.92
+CA-2026-100192,2025-12-05,2025-12-08,Standard Class,Consumer,South,Office Supplies,Binders,Binder Model Pro,44.93,5,12.36
+CA-2026-100493,2025-12-05,2025-12-08,Second Class,Consumer,West,Furniture,Tables,Table Model Pro,877.27,3,183.74
+CA-2026-100233,2025-12-06,2025-12-08,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Lite,70.73,1,24.14
+CA-2026-100320,2025-12-06,2025-12-10,Standard Class,Home Office,South,Office Supplies,Storage,Storage Model Lite,64.23,1,11.77
+CA-2026-100229,2025-12-07,2025-12-10,Standard Class,Home Office,East,Furniture,Tables,Table Model Z,397.83,1,124.21
+CA-2026-100288,2025-12-08,2025-12-13,Standard Class,Corporate,West,Furniture,Chairs,Chair Model Pro,974.74,2,139.29
+CA-2026-100271,2025-12-08,2025-12-13,Second Class,Consumer,Central,Office Supplies,Binders,Binder Model Pro,33.51,3,6.43
+CA-2026-100256,2025-12-08,2025-12-10,Standard Class,Consumer,Central,Electronics,Accessories,Accessorie Model Z,2650.92,5,1011.03
+CA-2026-100343,2025-12-08,2025-12-12,First Class,Home Office,West,Furniture,Bookcases,Bookcase Model Pro,356.64,2,-12.77
+CA-2026-100119,2025-12-08,2025-12-13,Standard Class,Consumer,South,Electronics,Headphones,Headphone Model Y,2207.73,3,392.12
+CA-2026-100335,2025-12-08,2025-12-12,Standard Class,Home Office,East,Electronics,Headphones,Headphone Model Lite,1082.51,3,-148.55
+CA-2026-100012,2025-12-09,2025-12-14,Standard Class,Home Office,West,Electronics,Accessories,Accessorie Model X,1706.84,5,-70.61
+CA-2026-100477,2025-12-09,2025-12-11,Standard Class,Corporate,West,Office Supplies,Paper,Paper Model Lite,77.93,2,15.44
+CA-2026-100487,2025-12-09,2025-12-13,Second Class,Consumer,East,Electronics,Headphones,Headphone Model Y,1956.69,4,246.17
+CA-2026-100410,2025-12-10,2025-12-13,First Class,Consumer,West,Office Supplies,Storage,Storage Model Lite,218.45,3,57.88
+CA-2026-100201,2025-12-10,2025-12-12,First Class,Corporate,Central,Furniture,Chairs,Chair Model Lite,847.23,4,139.35
+CA-2026-100125,2025-12-10,2025-12-15,Standard Class,Home Office,East,Electronics,Headphones,Headphone Model Y,506.21,2,60.12
+CA-2026-100416,2025-12-12,2025-12-17,Standard Class,Home Office,West,Furniture,Bookcases,Bookcase Model Z,406.17,4,94.49
+CA-2026-100000,2025-12-12,2025-12-16,Standard Class,Consumer,East,Electronics,Smartphones,Smartphone Model X,1907.97,3,274.92
+CA-2026-100007,2025-12-12,2025-12-17,Second Class,Consumer,South,Electronics,Laptops,Laptop Model Y,447.24,1,111.89
+CA-2026-100368,2025-12-13,2025-12-16,Standard Class,Consumer,South,Electronics,Smartphones,Smartphone Model Pro,506.69,5,68.36
+CA-2026-100283,2025-12-13,2025-12-18,Standard Class,Home Office,West,Electronics,Headphones,Headphone Model Z,1126.49,3,190.32
+CA-2026-100065,2025-12-15,2025-12-17,Standard Class,Corporate,West,Office Supplies,Storage,Storage Model X,44.82,2,8.47
+CA-2026-100428,2025-12-15,2025-12-20,Standard Class,Consumer,West,Electronics,Accessories,Accessorie Model Lite,288.32,1,52.24
+CA-2026-100003,2025-12-16,2025-12-21,Standard Class,Corporate,South,Office Supplies,Paper,Paper Model Lite,369.06,5,88.94
+CA-2026-100165,2025-12-17,2025-12-21,Standard Class,Corporate,East,Office Supplies,Paper,Paper Model X,180.92,5,47.45
+CA-2026-100414,2025-12-17,2025-12-20,Standard Class,Home Office,South,Furniture,Chairs,Chair Model Pro,538.05,2,194.35
+CA-2026-100287,2025-12-21,2025-12-26,First Class,Consumer,Central,Office Supplies,Storage,Storage Model Z,133.86,2,50.62
+CA-2026-100261,2025-12-21,2025-12-25,Standard Class,Corporate,Central,Furniture,Furnishings,Furnishing Model Pro,972.92,2,178.54
+CA-2026-100202,2025-12-22,2025-12-24,First Class,Home Office,West,Furniture,Furnishings,Furnishing Model Z,646.09,5,-63.7
+CA-2026-100282,2025-12-22,2025-12-25,Standard Class,Consumer,West,Office Supplies,Paper,Paper Model Z,90.81,5,24.86
+CA-2026-100195,2025-12-22,2025-12-25,Second Class,Consumer,Central,Furniture,Bookcases,Bookcase Model Lite,1226.16,4,185.11
+CA-2026-100205,2025-12-22,2025-12-25,Same Day,Consumer,Central,Electronics,Laptops,Laptop Model Z,647.18,1,199.14
+CA-2026-100200,2025-12-22,2025-12-26,Second Class,Home Office,South,Office Supplies,Art,Art Model X,58.73,1,9.44
+CA-2026-100361,2025-12-23,2025-12-26,Second Class,Home Office,West,Office Supplies,Storage,Storage Model X,68.07,1,14.59
+CA-2026-100177,2025-12-25,2025-12-28,Standard Class,Corporate,East,Furniture,Tables,Table Model Y,868.39,2,173.75
+CA-2026-100345,2025-12-25,2025-12-27,Second Class,Consumer,South,Office Supplies,Storage,Storage Model Z,174.82,5,18.05
+CA-2026-100280,2025-12-25,2025-12-28,Standard Class,Consumer,Central,Office Supplies,Storage,Storage Model Y,148.09,5,48.68
+CA-2026-100439,2025-12-26,2025-12-28,First Class,Home Office,East,Electronics,Laptops,Laptop Model X,2496.09,4,897.77
+CA-2026-100451,2025-12-27,2025-12-29,Second Class,Corporate,West,Electronics,Accessories,Accessorie Model X,1219.72,5,353.0
+CA-2026-100432,2025-12-29,2026-01-03,Second Class,Corporate,East,Furniture,Tables,Table Model Z,604.69,3,172.83
+CA-2026-100278,2025-12-29,2026-01-01,Standard Class,Consumer,West,Furniture,Chairs,Chair Model Pro,1434.4,5,504.15
+CA-2026-100176,2025-12-30,2026-01-01,Standard Class,Corporate,East,Furniture,Chairs,Chair Model Z,731.94,3,253.56
+CA-2026-100008,2025-12-31,2026-01-05,Standard Class,Corporate,East,Furniture,Chairs,Chair Model Lite,1461.76,4,266.64
+CA-2026-100445,2025-12-31,2026-01-02,First Class,Home Office,West,Office Supplies,Binders,Binder Model Pro,170.78,3,49.12
+CA-2026-100224,2026-01-01,2026-01-06,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Pro,54.08,1,5.64
+CA-2026-100235,2026-01-02,2026-01-06,Standard Class,Consumer,West,Office Supplies,Storage,Storage Model Lite,35.2,1,10.67
+CA-2026-100427,2026-01-02,2026-01-05,Standard Class,Corporate,East,Furniture,Chairs,Chair Model Y,740.21,3,237.89
+CA-2026-100399,2026-01-03,2026-01-07,First Class,Consumer,South,Office Supplies,Paper,Paper Model Pro,33.93,3,4.41
+CA-2026-100450,2026-01-04,2026-01-09,Standard Class,Consumer,South,Furniture,Bookcases,Bookcase Model Lite,550.88,2,68.57
+CA-2026-100213,2026-01-04,2026-01-08,Standard Class,Consumer,East,Electronics,Accessories,Accessorie Model Pro,120.41,2,20.83
+CA-2026-100365,2026-01-05,2026-01-07,Second Class,Corporate,East,Office Supplies,Art,Art Model Y,134.6,3,32.66
+CA-2026-100442,2026-01-05,2026-01-10,Standard Class,Corporate,West,Electronics,Accessories,Accessorie Model Lite,2229.45,4,626.35
+CA-2026-100351,2026-01-06,2026-01-08,Standard Class,Corporate,South,Electronics,Laptops,Laptop Model Pro,896.96,5,169.44
+CA-2026-100304,2026-01-06,2026-01-08,Standard Class,Home Office,South,Office Supplies,Storage,Storage Model Pro,77.93,2,29.08
+CA-2026-100248,2026-01-06,2026-01-09,First Class,Corporate,Central,Office Supplies,Storage,Storage Model Y,110.25,3,31.1
+CA-2026-100170,2026-01-06,2026-01-08,Standard Class,Consumer,East,Electronics,Smartphones,Smartphone Model X,565.67,4,91.57
+CA-2026-100252,2026-01-07,2026-01-10,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Y,163.0,5,-31.62
+CA-2026-100099,2026-01-07,2026-01-09,Standard Class,Consumer,West,Office Supplies,Storage,Storage Model Y,27.0,2,8.68
+CA-2026-100443,2026-01-07,2026-01-10,First Class,Consumer,Central,Electronics,Accessories,Accessorie Model Pro,1123.8,2,257.03
+CA-2026-100207,2026-01-08,2026-01-13,Standard Class,Corporate,West,Office Supplies,Paper,Paper Model Lite,88.02,3,13.84
+CA-2026-100214,2026-01-08,2026-01-10,Standard Class,Consumer,Central,Furniture,Bookcases,Bookcase Model Pro,1570.41,5,471.21
+CA-2026-100015,2026-01-09,2026-01-11,Standard Class,Home Office,South,Office Supplies,Binders,Binder Model Y,145.95,5,-12.57
+CA-2026-100275,2026-01-09,2026-01-12,Standard Class,Consumer,East,Electronics,Accessories,Accessorie Model Pro,285.41,1,100.47
+CA-2026-100126,2026-01-09,2026-01-13,First Class,Consumer,West,Office Supplies,Binders,Binder Model Z,35.48,1,10.01
+CA-2026-100041,2026-01-09,2026-01-11,Standard Class,Corporate,Central,Office Supplies,Paper,Paper Model Z,104.75,4,38.57
+CA-2026-100162,2026-01-12,2026-01-15,First Class,Consumer,South,Office Supplies,Storage,Storage Model Z,151.74,3,17.8
+CA-2026-100043,2026-01-13,2026-01-16,Second Class,Home Office,Central,Furniture,Chairs,Chair Model Y,407.75,1,101.64
+CA-2026-100302,2026-01-13,2026-01-16,Standard Class,Home Office,East,Furniture,Bookcases,Bookcase Model X,395.37,2,59.78
+CA-2026-100110,2026-01-13,2026-01-17,First Class,Consumer,South,Furniture,Furnishings,Furnishing Model Y,1109.4,5,-198.38
+CA-2026-100100,2026-01-14,2026-01-18,Same Day,Corporate,Central,Office Supplies,Storage,Storage Model Pro,231.37,4,47.19
+CA-2026-100182,2026-01-15,2026-01-17,Standard Class,Consumer,West,Electronics,Headphones,Headphone Model X,2832.05,4,743.49
+CA-2026-100102,2026-01-17,2026-01-19,First Class,Consumer,East,Furniture,Chairs,Chair Model Pro,282.88,1,52.68
+CA-2026-100266,2026-01-18,2026-01-23,Standard Class,Consumer,Central,Furniture,Chairs,Chair Model Lite,358.26,2,52.48
+CA-2026-100386,2026-01-20,2026-01-23,Second Class,Consumer,South,Electronics,Headphones,Headphone Model Lite,381.4,2,93.52
+CA-2026-100147,2026-01-21,2026-01-25,Second Class,Consumer,Central,Office Supplies,Binders,Binder Model Lite,63.53,2,22.14
+CA-2026-100387,2026-01-21,2026-01-24,Standard Class,Consumer,Central,Furniture,Furnishings,Furnishing Model Z,295.92,1,80.46
+CA-2026-100425,2026-01-22,2026-01-26,Standard Class,Consumer,South,Electronics,Smartphones,Smartphone Model Lite,1075.43,3,324.47
+CA-2026-100464,2026-01-22,2026-01-24,Standard Class,Consumer,Central,Furniture,Tables,Table Model Pro,582.88,3,155.61
+CA-2026-100232,2026-01-22,2026-01-27,Standard Class,Corporate,East,Office Supplies,Paper,Paper Model Y,178.3,4,71.09
+CA-2026-100259,2026-01-22,2026-01-26,Standard Class,Corporate,East,Office Supplies,Storage,Storage Model Y,50.28,2,7.55
+CA-2026-100431,2026-01-23,2026-01-25,Standard Class,Consumer,Central,Office Supplies,Art,Art Model Lite,272.28,5,97.97
+CA-2026-100492,2026-01-25,2026-01-30,Standard Class,Consumer,South,Furniture,Furnishings,Furnishing Model Lite,270.18,1,92.67
+CA-2026-100430,2026-01-25,2026-01-28,Second Class,Consumer,West,Electronics,Smartphones,Smartphone Model Y,1582.63,4,-65.26
+CA-2026-100272,2026-01-25,2026-01-30,Second Class,Corporate,East,Electronics,Laptops,Laptop Model Z,2000.36,3,451.25
+CA-2026-100243,2026-01-25,2026-01-30,Standard Class,Home Office,South,Office Supplies,Binders,Binder Model X,162.87,3,63.24
+CA-2026-100324,2026-01-25,2026-01-27,Standard Class,Home Office,South,Furniture,Tables,Table Model Pro,113.15,1,20.18
+CA-2026-100244,2026-01-26,2026-01-30,Standard Class,Consumer,Central,Furniture,Furnishings,Furnishing Model Y,610.19,2,134.59
+CA-2026-100240,2026-01-26,2026-01-30,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Y,57.89,1,17.39
+CA-2026-100400,2026-01-28,2026-01-30,Second Class,Consumer,Central,Furniture,Bookcases,Bookcase Model Pro,313.09,4,87.9
+CA-2026-100016,2026-01-28,2026-02-01,Standard Class,Home Office,East,Electronics,Accessories,Accessorie Model X,244.66,1,68.03
+CA-2026-100364,2026-01-29,2026-01-31,Standard Class,Corporate,Central,Electronics,Headphones,Headphone Model Pro,277.97,4,-17.58
+CA-2026-100254,2026-01-29,2026-02-02,Standard Class,Corporate,South,Office Supplies,Paper,Paper Model Z,63.8,2,7.57
+CA-2026-100189,2026-01-30,2026-02-03,Standard Class,Home Office,South,Office Supplies,Storage,Storage Model Z,116.31,2,19.23
+CA-2026-100276,2026-01-30,2026-02-04,Second Class,Consumer,West,Electronics,Laptops,Laptop Model Pro,633.67,1,133.98
+CA-2026-100014,2026-01-30,2026-02-01,Second Class,Consumer,West,Office Supplies,Art,Art Model Z,49.42,5,-0.05
+CA-2026-100289,2026-01-31,2026-02-04,Second Class,Consumer,South,Furniture,Chairs,Chair Model Lite,854.32,4,179.59
+CA-2026-100395,2026-01-31,2026-02-05,Standard Class,Corporate,Central,Electronics,Accessories,Accessorie Model Y,1507.79,2,432.47
+CA-2026-100463,2026-02-01,2026-02-05,Standard Class,Corporate,West,Furniture,Furnishings,Furnishing Model Pro,1317.02,4,419.65
+CA-2026-100366,2026-02-02,2026-02-05,First Class,Corporate,South,Furniture,Chairs,Chair Model Z,753.76,3,223.81
+CA-2026-100091,2026-02-04,2026-02-07,Standard Class,Home Office,South,Furniture,Tables,Table Model X,195.68,2,36.34
+CA-2026-100309,2026-02-05,2026-02-07,Standard Class,Corporate,Central,Furniture,Chairs,Chair Model Z,384.33,1,108.57
+CA-2026-100332,2026-02-05,2026-02-09,First Class,Corporate,East,Office Supplies,Paper,Paper Model Lite,238.7,4,27.85
+CA-2026-100429,2026-02-05,2026-02-07,Standard Class,Consumer,Central,Electronics,Headphones,Headphone Model Pro,221.84,4,-37.44
+CA-2026-100268,2026-02-07,2026-02-12,Standard Class,Consumer,South,Furniture,Chairs,Chair Model Z,1266.53,5,178.76
+CA-2026-100152,2026-02-07,2026-02-10,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Lite,213.67,5,76.42
+CA-2026-100191,2026-02-07,2026-02-12,First Class,Consumer,South,Electronics,Laptops,Laptop Model X,1764.1,3,466.65
+CA-2026-100218,2026-02-07,2026-02-10,Standard Class,Consumer,West,Office Supplies,Binders,Binder Model Lite,96.51,2,12.4
+CA-2026-100348,2026-02-08,2026-02-11,First Class,Corporate,West,Electronics,Laptops,Laptop Model Z,2356.28,3,283.15
+CA-2026-100279,2026-02-08,2026-02-13,Second Class,Corporate,West,Office Supplies,Paper,Paper Model X,128.42,5,28.51
+CA-2026-100297,2026-02-08,2026-02-10,Standard Class,Consumer,East,Office Supplies,Paper,Paper Model Lite,296.22,4,55.52
+CA-2026-100023,2026-02-08,2026-02-13,Standard Class,Consumer,South,Electronics,Smartphones,Smartphone Model Lite,1705.73,4,425.87
+CA-2026-100071,2026-02-09,2026-02-13,Standard Class,Corporate,East,Furniture,Chairs,Chair Model Lite,780.44,5,123.76
+CA-2026-100104,2026-02-10,2026-02-15,Second Class,Home Office,Central,Office Supplies,Storage,Storage Model Pro,53.87,5,20.76
+CA-2026-100294,2026-02-10,2026-02-12,Standard Class,Corporate,East,Office Supplies,Paper,Paper Model Lite,253.08,4,72.94
+CA-2026-100184,2026-02-12,2026-02-17,First Class,Consumer,East,Electronics,Headphones,Headphone Model Y,105.58,1,36.02
+CA-2026-100046,2026-02-14,2026-02-17,Standard Class,Home Office,West,Electronics,Headphones,Headphone Model Y,516.84,5,197.55
+CA-2026-100296,2026-02-16,2026-02-21,Standard Class,Consumer,West,Electronics,Laptops,Laptop Model Pro,1567.07,5,385.25
+CA-2026-100159,2026-02-17,2026-02-20,Standard Class,Consumer,East,Furniture,Bookcases,Bookcase Model Lite,345.28,3,51.7
+CA-2026-100373,2026-02-17,2026-02-22,Standard Class,Corporate,South,Electronics,Laptops,Laptop Model X,129.41,1,28.98
+CA-2026-100031,2026-02-17,2026-02-20,Standard Class,Home Office,South,Electronics,Headphones,Headphone Model Z,1241.51,2,270.32
+CA-2026-100406,2026-02-17,2026-02-21,Same Day,Corporate,Central,Office Supplies,Art,Art Model X,194.98,4,65.55
+CA-2026-100148,2026-02-18,2026-02-21,Standard Class,Consumer,West,Electronics,Accessories,Accessorie Model Y,641.97,1,240.18
+CA-2026-100188,2026-02-19,2026-02-23,Second Class,Corporate,South,Electronics,Laptops,Laptop Model Y,1075.08,3,319.32
+CA-2026-100120,2026-02-19,2026-02-21,First Class,Corporate,East,Office Supplies,Storage,Storage Model X,101.47,3,10.42
+CA-2026-100330,2026-02-19,2026-02-21,Standard Class,Consumer,West,Office Supplies,Art,Art Model Z,72.58,2,23.61
+CA-2026-100216,2026-02-19,2026-02-21,Standard Class,Consumer,West,Furniture,Tables,Table Model Y,324.93,3,-0.25
+CA-2026-100382,2026-02-20,2026-02-25,Standard Class,Corporate,Central,Electronics,Smartphones,Smartphone Model Y,807.25,2,184.49
+CA-2026-100359,2026-02-21,2026-02-23,Standard Class,Home Office,South,Office Supplies,Paper,Paper Model X,65.43,1,10.65
+CA-2026-100035,2026-02-22,2026-02-25,Standard Class,Home Office,West,Electronics,Laptops,Laptop Model Lite,2169.89,4,341.71
+CA-2026-100371,2026-02-23,2026-02-25,Standard Class,Home Office,East,Furniture,Tables,Table Model Lite,997.39,5,343.5
+CA-2026-100306,2026-02-23,2026-02-26,Standard Class,Consumer,Central,Office Supplies,Binders,Binder Model X,7.62,1,1.76
+CA-2026-100137,2026-02-26,2026-03-01,Second Class,Corporate,Central,Office Supplies,Paper,Paper Model Lite,225.66,3,78.4
+CA-2026-100405,2026-02-27,2026-03-03,Standard Class,Home Office,Central,Office Supplies,Art,Art Model Lite,48.05,1,5.22
+CA-2026-100489,2026-02-27,2026-03-01,Standard Class,Corporate,East,Office Supplies,Storage,Storage Model Lite,137.48,3,40.05
+CA-2026-100194,2026-02-27,2026-03-03,First Class,Corporate,East,Electronics,Smartphones,Smartphone Model Z,877.01,2,264.28
+CA-2026-100341,2026-02-28,2026-03-02,Standard Class,Corporate,East,Furniture,Bookcases,Bookcase Model Lite,745.25,5,196.75
+CA-2026-100223,2026-03-03,2026-03-05,Second Class,Corporate,Central,Office Supplies,Art,Art Model Pro,191.34,3,37.09
+CA-2026-100466,2026-03-04,2026-03-08,Standard Class,Consumer,South,Office Supplies,Art,Art Model X,101.05,3,-7.08
+CA-2026-100396,2026-03-05,2026-03-07,Standard Class,Consumer,West,Office Supplies,Paper,Paper Model X,21.7,1,5.73
+CA-2026-100204,2026-03-06,2026-03-11,Standard Class,Home Office,East,Furniture,Chairs,Chair Model Pro,192.62,1,57.37
+CA-2026-100154,2026-03-06,2026-03-11,Second Class,Corporate,South,Furniture,Chairs,Chair Model Lite,1971.55,5,558.27
+CA-2026-100236,2026-03-06,2026-03-08,Second Class,Consumer,Central,Office Supplies,Binders,Binder Model Pro,82.46,5,-13.73
+CA-2026-100344,2026-03-07,2026-03-09,Standard Class,Corporate,South,Furniture,Bookcases,Bookcase Model Z,572.35,2,211.49
+CA-2026-100032,2026-03-07,2026-03-10,Standard Class,Consumer,South,Electronics,Laptops,Laptop Model Z,923.55,3,-9.06
+CA-2026-100089,2026-03-07,2026-03-11,Standard Class,Consumer,East,Office Supplies,Paper,Paper Model Lite,56.02,2,16.04
+CA-2026-100456,2026-03-08,2026-03-10,Same Day,Consumer,Central,Office Supplies,Art,Art Model Lite,42.27,4,8.55
+CA-2026-100005,2026-03-08,2026-03-13,Standard Class,Home Office,South,Office Supplies,Storage,Storage Model X,32.1,2,9.29
+CA-2026-100079,2026-03-09,2026-03-13,First Class,Consumer,South,Office Supplies,Binders,Binder Model Y,92.58,2,24.43
+CA-2026-100034,2026-03-09,2026-03-13,Standard Class,Corporate,South,Office Supplies,Art,Art Model X,95.3,4,19.78
+CA-2026-100398,2026-03-09,2026-03-12,Second Class,Consumer,Central,Office Supplies,Art,Art Model Pro,65.45,2,24.18
+CA-2026-100173,2026-03-09,2026-03-14,Second Class,Consumer,Central,Electronics,Laptops,Laptop Model Pro,2578.27,4,624.65
+CA-2026-100346,2026-03-10,2026-03-15,Second Class,Corporate,East,Electronics,Accessories,Accessorie Model Z,535.93,1,70.39
+CA-2026-100068,2026-03-10,2026-03-15,Standard Class,Consumer,South,Furniture,Chairs,Chair Model Z,377.46,1,116.7
+CA-2026-100327,2026-03-11,2026-03-15,Same Day,Consumer,East,Electronics,Accessories,Accessorie Model Y,289.07,3,43.02
+CA-2026-100457,2026-03-11,2026-03-14,Second Class,Corporate,South,Furniture,Furnishings,Furnishing Model Pro,465.25,1,66.52
+CA-2026-100021,2026-03-11,2026-03-13,Standard Class,Consumer,West,Furniture,Furnishings,Furnishing Model Lite,756.8,3,131.84
+CA-2026-100292,2026-03-13,2026-03-15,First Class,Consumer,East,Furniture,Chairs,Chair Model X,345.22,2,125.05
+CA-2026-100303,2026-03-14,2026-03-18,Standard Class,Corporate,South,Furniture,Chairs,Chair Model Z,185.59,2,37.51
+CA-2026-100417,2026-03-15,2026-03-18,First Class,Consumer,Central,Furniture,Chairs,Chair Model Y,1102.24,5,285.46
+CA-2026-100181,2026-03-17,2026-03-21,Standard Class,Consumer,East,Electronics,Laptops,Laptop Model Y,1452.66,2,174.45
+CA-2026-100219,2026-03-17,2026-03-19,Standard Class,Home Office,West,Office Supplies,Art,Art Model Pro,399.58,5,129.65
+CA-2026-100230,2026-03-17,2026-03-22,Standard Class,Corporate,Central,Furniture,Tables,Table Model Y,730.43,3,203.83
+CA-2026-100246,2026-03-18,2026-03-23,Second Class,Corporate,East,Furniture,Bookcases,Bookcase Model Pro,933.9,2,259.49
+CA-2026-100234,2026-03-20,2026-03-22,Second Class,Consumer,West,Furniture,Chairs,Chair Model Pro,1901.71,5,220.61
+CA-2026-100111,2026-03-20,2026-03-25,First Class,Consumer,West,Electronics,Headphones,Headphone Model Y,415.3,5,-21.88
+CA-2026-100072,2026-03-21,2026-03-26,Standard Class,Consumer,East,Furniture,Bookcases,Bookcase Model Pro,450.09,2,177.14
+CA-2026-100222,2026-03-22,2026-03-24,Standard Class,Corporate,East,Furniture,Furnishings,Furnishing Model Lite,134.63,1,28.02
+CA-2026-100473,2026-03-23,2026-03-28,Standard Class,Corporate,West,Office Supplies,Storage,Storage Model X,252.68,5,43.48
+CA-2026-100059,2026-03-25,2026-03-27,Standard Class,Consumer,West,Furniture,Furnishings,Furnishing Model Lite,1269.14,3,268.15
+CA-2026-100133,2026-03-26,2026-03-30,Standard Class,Home Office,West,Furniture,Chairs,Chair Model Lite,578.76,3,213.33
+CA-2026-100082,2026-03-27,2026-03-29,Standard Class,Consumer,East,Office Supplies,Storage,Storage Model Y,195.0,3,42.7
+CA-2026-100274,2026-03-27,2026-04-01,Standard Class,Corporate,West,Furniture,Chairs,Chair Model Pro,1621.03,5,581.4
+CA-2026-100295,2026-03-27,2026-03-29,Standard Class,Consumer,West,Furniture,Tables,Table Model Y,1580.45,4,375.35
+CA-2026-100081,2026-04-01,2026-04-06,Standard Class,Corporate,South,Electronics,Laptops,Laptop Model Z,1413.22,3,217.32
+CA-2026-100122,2026-04-02,2026-04-06,Second Class,Consumer,West,Furniture,Chairs,Chair Model Pro,326.97,2,41.66
+CA-2026-100009,2026-04-03,2026-04-08,First Class,Corporate,South,Office Supplies,Binders,Binder Model Lite,196.57,3,51.89
+CA-2026-100077,2026-04-03,2026-04-08,Standard Class,Corporate,West,Furniture,Chairs,Chair Model X,2161.89,5,672.59
+CA-2026-100392,2026-04-03,2026-04-08,Standard Class,Consumer,East,Office Supplies,Binders,Binder Model Pro,157.57,5,28.33
+CA-2026-100117,2026-04-04,2026-04-07,Standard Class,Consumer,Central,Electronics,Laptops,Laptop Model Y,3913.78,5,401.15
+CA-2026-100087,2026-04-05,2026-04-09,Standard Class,Consumer,South,Office Supplies,Binders,Binder Model Y,364.78,5,110.24
+CA-2026-100474,2026-04-06,2026-04-11,First Class,Corporate,South,Electronics,Accessories,Accessorie Model Lite,121.22,1,15.64
+CA-2026-100069,2026-04-06,2026-04-10,Standard Class,Corporate,South,Office Supplies,Binders,Binder Model Y,234.3,4,88.17
+CA-2026-100217,2026-04-06,2026-04-11,Standard Class,Home Office,East,Electronics,Headphones,Headphone Model Pro,1070.5,2,187.02
+CA-2026-100129,2026-04-06,2026-04-08,Standard Class,Corporate,East,Electronics,Smartphones,Smartphone Model X,3747.66,5,599.94
+CA-2026-100468,2026-04-08,2026-04-12,Standard Class,Home Office,Central,Furniture,Furnishings,Furnishing Model X,407.52,1,40.76
+CA-2026-100331,2026-04-08,2026-04-11,Standard Class,Consumer,West,Office Supplies,Art,Art Model Lite,246.16,4,91.4
+CA-2026-100208,2026-04-08,2026-04-13,First Class,Home Office,South,Furniture,Tables,Table Model Z,1115.25,3,310.7
+CA-2026-100480,2026-04-10,2026-04-14,Standard Class,Consumer,West,Furniture,Chairs,Chair Model Pro,1382.43,4,378.16
+CA-2026-100144,2026-04-10,2026-04-14,Second Class,Corporate,East,Electronics,Accessories,Accessorie Model X,569.01,1,173.86
+CA-2026-100354,2026-04-11,2026-04-14,Second Class,Corporate,East,Office Supplies,Binders,Binder Model Z,155.32,5,17.99
+CA-2026-100490,2026-04-11,2026-04-13,Standard Class,Corporate,Central,Office Supplies,Binders,Binder Model Y,266.02,4,66.36
+CA-2026-100211,2026-04-12,2026-04-16,Standard Class,Corporate,Central,Electronics,Accessories,Accessorie Model X,523.3,5,110.16
+CA-2026-100212,2026-04-13,2026-04-15,Standard Class,Corporate,Central,Electronics,Accessories,Accessorie Model Lite,1871.3,5,332.85
+CA-2026-100185,2026-04-13,2026-04-18,Standard Class,Consumer,Central,Office Supplies,Art,Art Model Y,56.27,3,-4.96
+CA-2026-100174,2026-04-13,2026-04-18,Second Class,Consumer,East,Office Supplies,Binders,Binder Model X,42.35,1,12.98
+CA-2026-100317,2026-04-14,2026-04-18,First Class,Consumer,West,Electronics,Laptops,Laptop Model Lite,694.01,1,263.7
+CA-2026-100286,2026-04-15,2026-04-17,First Class,Consumer,West,Furniture,Furnishings,Furnishing Model Z,197.03,1,30.51
+CA-2026-100124,2026-04-15,2026-04-17,Standard Class,Consumer,Central,Office Supplies,Art,Art Model Pro,18.09,3,2.97
+CA-2026-100438,2026-04-17,2026-04-21,Second Class,Consumer,East,Furniture,Furnishings,Furnishing Model X,496.62,1,81.0
+CA-2026-100311,2026-04-18,2026-04-20,Standard Class,Consumer,East,Office Supplies,Paper,Paper Model Lite,130.22,2,42.35
+CA-2026-100172,2026-04-19,2026-04-23,Second Class,Home Office,Central,Office Supplies,Paper,Paper Model Z,86.17,2,9.09
+CA-2026-100107,2026-04-19,2026-04-23,Standard Class,Consumer,West,Office Supplies,Art,Art Model X,3.07,1,-0.46
+CA-2026-100140,2026-04-19,2026-04-23,First Class,Corporate,South,Office Supplies,Binders,Binder Model Z,62.75,3,-11.23
+CA-2026-100145,2026-04-19,2026-04-21,Standard Class,Corporate,Central,Electronics,Smartphones,Smartphone Model Pro,398.47,3,76.88
+CA-2026-100336,2026-04-21,2026-04-25,Standard Class,Consumer,East,Office Supplies,Binders,Binder Model Pro,284.15,5,44.66
+CA-2026-100178,2026-04-21,2026-04-26,Standard Class,Consumer,East,Office Supplies,Paper,Paper Model Z,257.47,4,39.92
+CA-2026-100270,2026-04-21,2026-04-26,Standard Class,Home Office,West,Office Supplies,Storage,Storage Model Lite,103.6,2,25.52
+CA-2026-100193,2026-04-21,2026-04-25,Second Class,Corporate,South,Furniture,Bookcases,Bookcase Model Z,1102.74,3,375.92
+CA-2026-100187,2026-04-22,2026-04-27,Standard Class,Corporate,East,Furniture,Chairs,Chair Model Pro,236.46,1,49.86
+CA-2026-100027,2026-04-24,2026-04-26,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Model Y,298.32,5,68.2
+CA-2026-100083,2026-04-25,2026-04-30,Second Class,Consumer,East,Furniture,Tables,Table Model Z,216.51,2,31.87
+CA-2026-100146,2026-04-25,2026-04-29,First Class,Consumer,West,Electronics,Smartphones,Smartphone Model X,949.87,4,247.6
+CA-2026-100454,2026-04-25,2026-04-27,Second Class,Home Office,East,Furniture,Furnishings,Furnishing Model Lite,80.94,1,22.1
+CA-2026-100472,2026-04-26,2026-05-01,Second Class,Corporate,Central,Electronics,Accessories,Accessorie Model Lite,341.38,3,73.05
+CA-2026-100308,2026-04-26,2026-05-01,Standard Class,Consumer,South,Office Supplies,Paper,Paper Model Lite,38.68,1,4.44
+CA-2026-100447,2026-04-27,2026-04-29,First Class,Home Office,South,Furniture,Tables,Table Model Lite,243.02,2,86.23
+CA-2026-100231,2026-04-28,2026-04-30,First Class,Consumer,East,Electronics,Laptops,Laptop Model X,373.07,1,-49.1
+CA-2026-100141,2026-04-29,2026-05-02,Standard Class,Consumer,West,Office Supplies,Binders,Binder Model Z,249.33,4,73.94
+CA-2026-100051,2026-04-30,2026-05-03,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Z,147.57,4,20.42
+CA-2026-100155,2026-05-01,2026-05-03,Standard Class,Consumer,West,Electronics,Accessories,Accessorie Model X,153.25,1,23.57
+CA-2026-100039,2026-05-02,2026-05-05,Standard Class,Consumer,East,Furniture,Tables,Table Model Z,1437.58,3,332.06
+CA-2026-100485,2026-05-04,2026-05-06,First Class,Corporate,Central,Office Supplies,Paper,Paper Model Z,68.75,1,9.46
+CA-2026-100370,2026-05-04,2026-05-08,Standard Class,Corporate,Central,Furniture,Chairs,Chair Model Y,112.26,1,29.77
+CA-2026-100374,2026-05-05,2026-05-08,Standard Class,Consumer,East,Electronics,Headphones,Headphone Model Lite,1503.54,3,181.98
+CA-2026-100220,2026-05-05,2026-05-09,First Class,Consumer,Central,Office Supplies,Paper,Paper Model Z,209.6,4,83.69
+CA-2026-100461,2026-05-05,2026-05-09,Standard Class,Corporate,West,Electronics,Headphones,Headphone Model X,1087.47,4,197.47
+CA-2026-100483,2026-05-08,2026-05-13,Same Day,Consumer,South,Electronics,Accessories,Accessorie Model X,2057.52,4,221.61
+CA-2026-100491,2026-05-08,2026-05-11,Standard Class,Consumer,West,Office Supplies,Binders,Binder Model X,56.7,1,10.91
+CA-2026-100078,2026-05-10,2026-05-15,Second Class,Home Office,West,Office Supplies,Storage,Storage Model X,311.08,4,53.04
+CA-2026-100241,2026-05-10,2026-05-15,Standard Class,Consumer,East,Furniture,Tables,Table Model Lite,431.69,1,45.65
+CA-2026-100088,2026-05-10,2026-05-12,Standard Class,Corporate,West,Office Supplies,Paper,Paper Model Z,44.44,5,8.28
+CA-2026-100258,2026-05-10,2026-05-13,Standard Class,Corporate,Central,Office Supplies,Binders,Binder Model Y,62.43,3,15.03
+CA-2026-100347,2026-05-11,2026-05-15,Standard Class,Home Office,East,Furniture,Tables,Table Model X,1289.12,4,174.82
+CA-2026-100026,2026-05-11,2026-05-16,First Class,Consumer,East,Office Supplies,Binders,Binder Model X,21.66,1,7.68
+CA-2026-100265,2026-05-12,2026-05-15,Standard Class,Home Office,Central,Office Supplies,Storage,Storage Model Pro,33.26,2,4.79
+CA-2026-100479,2026-05-12,2026-05-17,First Class,Home Office,South,Electronics,Accessories,Accessorie Model Y,2808.22,5,393.05
+CA-2026-100285,2026-05-12,2026-05-14,Second Class,Consumer,East,Office Supplies,Art,Art Model Z,15.59,1,2.43
+CA-2026-100225,2026-05-13,2026-05-15,Standard Class,Corporate,Central,Electronics,Laptops,Laptop Model Lite,1682.82,3,553.13
+CA-2026-100130,2026-05-13,2026-05-17,First Class,Consumer,Central,Electronics,Headphones,Headphone Model Lite,1845.32,4,593.04
+CA-2026-100349,2026-05-14,2026-05-19,Standard Class,Consumer,West,Office Supplies,Paper,Paper Model Lite,44.65,1,4.9
+CA-2026-100494,2026-05-15,2026-05-17,Standard Class,Home Office,Central,Electronics,Laptops,Laptop Model Y,1061.45,2,166.63
+CA-2026-100127,2026-05-15,2026-05-17,Second Class,Consumer,West,Furniture,Tables,Table Model X,1813.03,5,698.83
+CA-2026-100018,2026-05-16,2026-05-18,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Model Z,17.33,1,6.45
+CA-2026-100239,2026-05-17,2026-05-19,Standard Class,Corporate,South,Electronics,Smartphones,Smartphone Model X,2107.82,4,324.2
+CA-2026-100179,2026-05-17,2026-05-19,Standard Class,Consumer,West,Office Supplies,Storage,Storage Model Lite,221.19,4,53.06
+CA-2026-100066,2026-05-18,2026-05-20,First Class,Home Office,East,Electronics,Accessories,Accessorie Model Lite,2108.95,4,275.76
+CA-2026-100106,2026-05-19,2026-05-21,Standard Class,Consumer,South,Furniture,Chairs,Chair Model Pro,1230.96,4,221.84
+CA-2026-100418,2026-05-20,2026-05-23,Same Day,Consumer,South,Office Supplies,Art,Art Model Pro,34.21,2,11.69
+CA-2026-100257,2026-05-21,2026-05-24,Standard Class,Corporate,West,Electronics,Smartphones,Smartphone Model Y,341.48,3,41.43
+CA-2026-100057,2026-05-22,2026-05-27,Second Class,Consumer,Central,Office Supplies,Paper,Paper Model Pro,194.06,4,44.01
+CA-2026-100314,2026-05-22,2026-05-27,Standard Class,Home Office,Central,Furniture,Chairs,Chair Model Pro,485.35,2,51.32
+CA-2026-100411,2026-05-22,2026-05-26,Standard Class,Corporate,West,Furniture,Furnishings,Furnishing Model Z,506.2,5,177.02
+CA-2026-100385,2026-05-22,2026-05-25,Second Class,Consumer,Central,Office Supplies,Paper,Paper Model Pro,149.39,4,55.95
+CA-2026-100052,2026-05-23,2026-05-25,Standard Class,Home Office,East,Furniture,Tables,Table Model Y,1204.59,3,271.0
+CA-2026-100253,2026-05-25,2026-05-29,Standard Class,Consumer,South,Electronics,Accessories,Accessorie Model Pro,3253.61,5,1275.46
+CA-2026-100113,2026-05-26,2026-05-30,Standard Class,Corporate,West,Furniture,Tables,Table Model X,337.03,1,74.97
+CA-2026-100198,2026-05-26,2026-05-30,Second Class,Corporate,West,Office Supplies,Paper,Paper Model Z,216.24,5,59.17
+CA-2026-100426,2026-05-27,2026-05-31,Standard Class,Corporate,East,Furniture,Furnishings,Furnishing Model Pro,384.25,1,133.45
+CA-2026-100073,2026-05-28,2026-06-02,Same Day,Corporate,West,Office Supplies,Paper,Paper Model X,311.58,5,99.12
+CA-2026-100076,2026-05-29,2026-06-02,Standard Class,Consumer,West,Furniture,Tables,Table Model Lite,1165.4,3,125.35
+CA-2026-100408,2026-05-29,2026-05-31,Standard Class,Consumer,East,Furniture,Chairs,Chair Model Z,494.05,4,-45.04
+CA-2026-100033,2026-05-29,2026-05-31,Standard Class,Consumer,West,Office Supplies,Art,Art Model Y,144.85,3,48.71
+CA-2026-100002,2026-05-29,2026-05-31,Standard Class,Corporate,West,Furniture,Tables,Table Model Y,726.27,2,147.84
+CA-2026-100455,2026-05-30,2026-06-02,First Class,Consumer,South,Furniture,Furnishings,Furnishing Model Z,633.69,2,76.56
+CA-2026-100367,2026-05-31,2026-06-02,Second Class,Home Office,Central,Electronics,Headphones,Headphone Model X,3113.45,4,978.95
+CA-2026-100047,2026-06-01,2026-06-05,Standard Class,Corporate,West,Office Supplies,Art,Art Model Y,172.08,4,59.07
+CA-2026-100434,2026-06-02,2026-06-07,Standard Class,Corporate,West,Electronics,Smartphones,Smartphone Model X,1514.16,4,242.96
+CA-2026-100318,2026-06-04,2026-06-06,Second Class,Consumer,South,Office Supplies,Art,Art Model Lite,112.11,5,34.03
+CA-2026-100022,2026-06-04,2026-06-06,Second Class,Consumer,Central,Furniture,Chairs,Chair Model Pro,628.31,2,93.5
+CA-2026-100300,2026-06-04,2026-06-06,First Class,Consumer,West,Electronics,Laptops,Laptop Model Lite,331.74,2,75.97
+CA-2026-100459,2026-06-05,2026-06-09,Standard Class,Home Office,South,Office Supplies,Binders,Binder Model Lite,86.01,3,-3.57
+CA-2026-100441,2026-06-06,2026-06-08,Standard Class,Home Office,Central,Electronics,Laptops,Laptop Model Pro,444.3,1,87.66
+CA-2026-100086,2026-06-07,2026-06-09,Standard Class,Corporate,West,Furniture,Furnishings,Furnishing Model X,1027.34,3,359.41
+CA-2026-100227,2026-06-07,2026-06-09,Standard Class,Consumer,Central,Furniture,Chairs,Chair Model Z,569.93,2,204.79
+CA-2026-100498,2026-06-07,2026-06-09,First Class,Consumer,East,Office Supplies,Art,Art Model Lite,53.73,2,11.76
+CA-2026-100338,2026-06-07,2026-06-09,First Class,Consumer,East,Furniture,Chairs,Chair Model X,429.0,1,137.48
+CA-2026-100360,2026-06-07,2026-06-09,Standard Class,Consumer,Central,Furniture,Bookcases,Bookcase Model Y,462.28,4,113.09
+CA-2026-100353,2026-06-08,2026-06-10,Standard Class,Consumer,South,Electronics,Accessories,Accessorie Model X,367.13,3,-41.76
+CA-2026-100315,2026-06-10,2026-06-13,First Class,Consumer,East,Office Supplies,Art,Art Model Pro,67.01,1,22.29
+CA-2026-100175,2026-06-10,2026-06-12,Second Class,Corporate,West,Electronics,Accessories,Accessorie Model Z,719.86,3,228.22
+CA-2026-100132,2026-06-10,2026-06-12,First Class,Consumer,South,Furniture,Chairs,Chair Model Y,1866.89,4,488.19
+CA-2026-100321,2026-06-11,2026-06-16,Standard Class,Consumer,South,Electronics,Accessories,Accessorie Model Z,653.03,5,-129.26
+CA-2026-100163,2026-06-11,2026-06-13,Standard Class,Corporate,Central,Electronics,Smartphones,Smartphone Model X,1716.37,5,284.69
+CA-2026-100157,2026-06-11,2026-06-14,Standard Class,Consumer,West,Office Supplies,Paper,Paper Model X,69.59,4,21.96
+CA-2026-100467,2026-06-12,2026-06-17,Standard Class,Corporate,West,Office Supplies,Storage,Storage Model X,12.76,1,4.07
+CA-2026-100168,2026-06-13,2026-06-15,Standard Class,Consumer,West,Electronics,Headphones,Headphone Model Lite,2617.82,5,352.41
+CA-2026-100319,2026-06-13,2026-06-15,Standard Class,Home Office,West,Electronics,Headphones,Headphone Model Pro,922.12,4,354.23
+CA-2026-100391,2026-06-15,2026-06-18,First Class,Corporate,South,Electronics,Laptops,Laptop Model Z,1770.62,4,679.97
+CA-2026-100362,2026-06-15,2026-06-18,Standard Class,Consumer,South,Electronics,Smartphones,Smartphone Model Lite,525.04,1,113.08
+CA-2026-100299,2026-06-16,2026-06-21,Standard Class,Corporate,East,Electronics,Accessories,Accessorie Model Z,1203.16,3,394.84
+CA-2026-100105,2026-06-16,2026-06-18,Second Class,Consumer,Central,Electronics,Smartphones,Smartphone Model X,818.9,3,229.06
+CA-2026-100478,2026-06-16,2026-06-20,First Class,Consumer,West,Office Supplies,Paper,Paper Model Y,111.72,4,33.71
+CA-2026-100448,2026-06-17,2026-06-22,Second Class,Home Office,South,Electronics,Laptops,Laptop Model X,226.12,3,45.77
+CA-2026-100488,2026-06-17,2026-06-21,Standard Class,Consumer,South,Furniture,Tables,Table Model Lite,207.9,2,57.31
+CA-2026-100118,2026-06-20,2026-06-24,Second Class,Home Office,West,Furniture,Furnishings,Furnishing Model Pro,786.31,3,255.17
+CA-2026-100020,2026-06-21,2026-06-25,Standard Class,Corporate,West,Furniture,Bookcases,Bookcase Model X,2207.11,5,327.76
+CA-2026-100226,2026-06-21,2026-06-24,Standard Class,Corporate,East,Electronics,Headphones,Headphone Model Y,190.09,3,54.34
+CA-2026-100199,2026-06-22,2026-06-25,Standard Class,Corporate,East,Office Supplies,Binders,Binder Model Lite,157.29,3,38.09
+CA-2026-100080,2026-06-23,2026-06-26,Standard Class,Home Office,Central,Office Supplies,Storage,Storage Model Lite,232.58,3,58.48
+CA-2026-100255,2026-06-25,2026-06-27,Second Class,Home Office,West,Electronics,Laptops,Laptop Model Z,1507.3,5,591.77
+CA-2026-100369,2026-06-26,2026-06-28,Standard Class,Consumer,East,Electronics,Headphones,Headphone Model X,509.6,2,-34.47
+CA-2026-100093,2026-06-28,2026-06-30,Standard Class,Corporate,Central,Furniture,Tables,Table Model X,518.83,5,198.89
+CA-2026-100340,2026-06-29,2026-07-02,Standard Class,Consumer,East,Furniture,Furnishings,Furnishing Model Y,617.93,3,142.22
+CA-2026-100273,2026-07-01,2026-07-03,Standard Class,Consumer,East,Office Supplies,Storage,Storage Model Pro,177.22,5,48.25
+CA-2026-100264,2026-07-01,2026-07-06,First Class,Consumer,East,Office Supplies,Paper,Paper Model Y,113.94,4,13.53
+CA-2026-100075,2026-07-01,2026-07-03,First Class,Home Office,South,Furniture,Tables,Table Model X,719.45,3,241.64
+CA-2026-100301,2026-07-01,2026-07-03,First Class,Home Office,East,Electronics,Smartphones,Smartphone Model Y,995.37,4,-45.9
+CA-2026-100323,2026-07-01,2026-07-04,Second Class,Corporate,West,Office Supplies,Art,Art Model Pro,237.77,3,48.03
+CA-2026-100404,2026-07-02,2026-07-06,Standard Class,Corporate,South,Furniture,Chairs,Chair Model Pro,1024.97,4,114.61
+CA-2026-100377,2026-07-03,2026-07-08,Standard Class,Corporate,South,Office Supplies,Storage,Storage Model Z,56.37,4,15.06
+CA-2026-100042,2026-07-04,2026-07-07,Second Class,Corporate,East,Electronics,Headphones,Headphone Model Z,2431.5,4,549.12
+CA-2026-100186,2026-07-04,2026-07-07,Standard Class,Consumer,South,Furniture,Chairs,Chair Model Pro,644.66,3,132.26
+CA-2026-100247,2026-07-05,2026-07-07,Standard Class,Consumer,East,Electronics,Headphones,Headphone Model Lite,1264.77,4,138.52
+CA-2026-100424,2026-07-05,2026-07-09,First Class,Corporate,South,Electronics,Smartphones,Smartphone Model Pro,1443.53,2,243.95
+CA-2026-100017,2026-07-06,2026-07-10,Standard Class,Home Office,West,Furniture,Chairs,Chair Model Pro,99.62,1,39.29
+CA-2026-100067,2026-07-07,2026-07-12,Standard Class,Corporate,South,Office Supplies,Binders,Binder Model Lite,174.16,4,36.71
+CA-2026-100293,2026-07-07,2026-07-09,Standard Class,Corporate,East,Furniture,Tables,Table Model Y,369.72,2,37.04
+CA-2026-100423,2026-07-08,2026-07-12,Standard Class,Home Office,South,Office Supplies,Art,Art Model Z,212.45,4,77.72
+CA-2026-100380,2026-07-10,2026-07-15,Standard Class,Consumer,East,Furniture,Chairs,Chair Model Y,236.2,1,-17.22
+CA-2026-100024,2026-07-11,2026-07-14,Standard Class,Consumer,West,Furniture,Bookcases,Bookcase Model Lite,255.25,3,52.86
+CA-2026-100401,2026-07-11,2026-07-13,Second Class,Corporate,Central,Furniture,Bookcases,Bookcase Model Lite,593.87,4,63.61
+CA-2026-100190,2026-07-12,2026-07-14,First Class,Consumer,South,Office Supplies,Art,Art Model Y,54.63,1,5.55
+CA-2026-100379,2026-07-13,2026-07-16,Second Class,Consumer,South,Office Supplies,Paper,Paper Model Lite,307.44,4,112.48
+CA-2026-100049,2026-07-13,2026-07-17,Standard Class,Corporate,Central,Office Supplies,Art,Art Model Lite,56.55,1,8.23
+CA-2026-100322,2026-07-14,2026-07-16,Standard Class,Home Office,South,Office Supplies,Binders,Binder Model X,211.33,4,60.61
+CA-2026-100183,2026-07-15,2026-07-17,Standard Class,Consumer,South,Electronics,Laptops,Laptop Model Z,2328.15,3,685.63
+CA-2026-100196,2026-07-15,2026-07-18,Standard Class,Home Office,West,Furniture,Furnishings,Furnishing Model Lite,388.54,3,126.27
+CA-2026-100440,2026-07-15,2026-07-17,Second Class,Consumer,West,Electronics,Headphones,Headphone Model X,508.53,4,200.23
+CA-2026-100433,2026-07-16,2026-07-20,Standard Class,Consumer,South,Furniture,Furnishings,Furnishing Model Pro,252.7,1,50.31
+CA-2026-100040,2026-07-17,2026-07-22,First Class,Home Office,Central,Office Supplies,Paper,Paper Model Y,48.51,1,15.89
+CA-2026-100384,2026-07-18,2026-07-21,First Class,Consumer,East,Electronics,Smartphones,Smartphone Model Y,3373.49,5,1192.19
+CA-2026-100390,2026-07-19,2026-07-23,Standard Class,Corporate,East,Furniture,Furnishings,Furnishing Model X,221.37,1,45.1
+CA-2026-100350,2026-07-20,2026-07-22,Standard Class,Home Office,West,Office Supplies,Binders,Binder Model Y,108.81,2,14.25
+CA-2026-100357,2026-07-20,2026-07-24,Standard Class,Consumer,Central,Electronics,Smartphones,Smartphone Model Lite,1022.1,4,353.86
+CA-2026-100221,2026-07-21,2026-07-26,Standard Class,Consumer,West,Electronics,Accessories,Accessorie Model Y,462.24,2,103.24
+CA-2026-100228,2026-07-22,2026-07-25,Standard Class,Home Office,Central,Office Supplies,Art,Art Model X,98.04,2,38.94
+CA-2026-100495,2026-07-22,2026-07-25,Standard Class,Consumer,Central,Office Supplies,Storage,Storage Model Z,230.52,4,47.85
+CA-2026-100486,2026-07-22,2026-07-25,Second Class,Home Office,West,Electronics,Accessories,Accessorie Model Z,3863.05,5,940.84
+CA-2026-100237,2026-07-23,2026-07-28,Standard Class,Home Office,Central,Electronics,Headphones,Headphone Model Pro,1913.71,5,591.61
+CA-2026-100407,2026-07-23,2026-07-25,First Class,Home Office,West,Office Supplies,Paper,Paper Model Y,139.91,5,38.69
+CA-2026-100096,2026-07-24,2026-07-29,Standard Class,Consumer,West,Electronics,Laptops,Laptop Model Z,630.15,5,115.25
+CA-2026-100153,2026-07-24,2026-07-27,First Class,Consumer,West,Electronics,Accessories,Accessorie Model Lite,1784.66,4,638.25
+CA-2026-100112,2026-07-25,2026-07-28,Same Day,Corporate,Central,Furniture,Bookcases,Bookcase Model Pro,450.86,1,124.56
+CA-2026-100045,2026-07-26,2026-07-29,Standard Class,Corporate,West,Furniture,Furnishings,Furnishing Model Pro,701.62,4,113.75
+CA-2026-100010,2026-07-28,2026-07-31,First Class,Corporate,West,Office Supplies,Storage,Storage Model Y,112.38,3,16.83
+CA-2026-100169,2026-07-28,2026-07-30,Second Class,Consumer,West,Furniture,Furnishings,Furnishing Model Lite,334.37,1,67.26
+CA-2026-100499,2026-08-02,2026-08-04,Same Day,Consumer,Central,Office Supplies,Binders,Binder Model X,61.72,1,13.81
+CA-2026-100084,2026-08-04,2026-08-06,Standard Class,Corporate,South,Electronics,Headphones,Headphone Model Z,847.02,3,306.13
+CA-2026-100291,2026-08-04,2026-08-08,Standard Class,Consumer,East,Furniture,Tables,Table Model X,1657.16,4,500.18
+CA-2026-100250,2026-08-04,2026-08-06,Standard Class,Home Office,South,Furniture,Bookcases,Bookcase Model Y,404.92,3,148.13
+CA-2026-100167,2026-08-06,2026-08-09,Standard Class,Corporate,South,Office Supplies,Art,Art Model Y,170.03,4,61.41
+CA-2026-100055,2026-08-06,2026-08-10,Standard Class,Home Office,South,Furniture,Tables,Table Model Y,707.1,4,225.43
+CA-2026-100284,2026-08-06,2026-08-11,Standard Class,Consumer,Central,Office Supplies,Binders,Binder Model Pro,46.45,1,13.87
+CA-2026-100475,2026-08-07,2026-08-12,Second Class,Consumer,West,Electronics,Headphones,Headphone Model Z,456.68,5,-50.77
+CA-2026-100403,2026-08-08,2026-08-12,Standard Class,Corporate,Central,Furniture,Chairs,Chair Model Lite,708.88,5,267.91
+CA-2026-100393,2026-08-08,2026-08-10,Same Day,Consumer,South,Furniture,Chairs,Chair Model Lite,2479.7,5,696.94
+CA-2026-100363,2026-08-08,2026-08-12,Standard Class,Home Office,East,Office Supplies,Art,Art Model Pro,197.17,5,74.88
+CA-2026-100210,2026-08-09,2026-08-11,Standard Class,Corporate,Central,Office Supplies,Art,Art Model Lite,285.08,5,44.56
+CA-2026-100019,2026-08-10,2026-08-15,Second Class,Corporate,West,Office Supplies,Art,Art Model Lite,151.56,4,-14.51
+CA-2026-100098,2026-08-10,2026-08-13,Standard Class,Consumer,East,Office Supplies,Binders,Binder Model Lite,175.61,4,68.7
+CA-2026-100095,2026-08-11,2026-08-16,Standard Class,Corporate,East,Electronics,Smartphones,Smartphone Model Lite,796.98,4,259.24
+CA-2026-100028,2026-08-11,2026-08-13,Standard Class,Consumer,West,Office Supplies,Art,Art Model X,14.38,2,4.3
+CA-2026-100260,2026-08-12,2026-08-17,Standard Class,Consumer,South,Electronics,Laptops,Laptop Model X,80.23,1,-3.86
+CA-2026-100135,2026-08-12,2026-08-14,Standard Class,Home Office,West,Office Supplies,Storage,Storage Model X,209.07,4,65.15
+CA-2026-100053,2026-08-12,2026-08-15,Second Class,Home Office,South,Furniture,Furnishings,Furnishing Model X,1497.27,5,586.82
+CA-2026-100242,2026-08-12,2026-08-14,Same Day,Consumer,South,Office Supplies,Storage,Storage Model X,228.36,4,70.77
+CA-2026-100437,2026-08-12,2026-08-15,Standard Class,Corporate,East,Electronics,Smartphones,Smartphone Model Lite,1327.57,2,487.18
+CA-2026-100171,2026-08-14,2026-08-17,Standard Class,Consumer,South,Office Supplies,Paper,Paper Model Y,27.51,1,4.44
+CA-2026-100339,2026-08-15,2026-08-17,Standard Class,Home Office,South,Electronics,Accessories,Accessorie Model Y,1794.36,4,444.72
+CA-2026-100001,2026-08-15,2026-08-18,Standard Class,Consumer,South,Office Supplies,Art,Art Model Y,296.25,5,64.12
+CA-2026-100238,2026-08-15,2026-08-18,Same Day,Corporate,South,Furniture,Tables,Table Model Y,1762.14,5,258.79
+CA-2026-100290,2026-08-15,2026-08-18,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Model Z,46.11,4,16.3
+CA-2026-100460,2026-08-15,2026-08-20,Second Class,Consumer,South,Electronics,Headphones,Headphone Model Y,2507.72,5,962.41
+CA-2026-100420,2026-08-16,2026-08-19,Standard Class,Consumer,South,Office Supplies,Storage,Storage Model Lite,125.57,5,27.94
+CA-2026-100074,2026-08-17,2026-08-20,First Class,Corporate,East,Electronics,Accessories,Accessorie Model Z,707.33,3,-71.26
+CA-2026-100245,2026-08-18,2026-08-22,Standard Class,Home Office,South,Office Supplies,Storage,Storage Model Lite,16.53,1,3.03
+CA-2026-100139,2026-08-18,2026-08-21,Standard Class,Corporate,Central,Office Supplies,Art,Art Model Z,55.16,2,6.45
+CA-2026-100389,2026-08-20,2026-08-24,Standard Class,Corporate,East,Office Supplies,Art,Art Model Z,8.22,3,-0.06
+CA-2026-100376,2026-08-21,2026-08-23,Second Class,Consumer,East,Electronics,Headphones,Headphone Model Pro,2011.43,3,454.09
+CA-2026-100422,2026-08-21,2026-08-24,First Class,Consumer,Central,Furniture,Chairs,Chair Model Z,220.14,1,34.79
+CA-2026-100481,2026-08-23,2026-08-27,Second Class,Corporate,South,Furniture,Chairs,Chair Model X,1336.45,4,435.74
+CA-2026-100180,2026-08-25,2026-08-29,First Class,Corporate,South,Furniture,Tables,Table Model Y,447.18,4,152.52
+CA-2026-100131,2026-08-25,2026-08-30,Standard Class,Home Office,West,Office Supplies,Binders,Binder Model X,132.33,3,27.97
+CA-2026-100358,2026-08-26,2026-08-28,Standard Class,Corporate,West,Office Supplies,Binders,Binder Model Z,122.4,3,25.55
+CA-2026-100121,2026-08-26,2026-08-28,Standard Class,Consumer,South,Electronics,Laptops,Laptop Model Pro,885.76,2,258.03
+CA-2026-100013,2026-08-26,2026-08-28,First Class,Consumer,Central,Electronics,Laptops,Laptop Model Pro,1380.68,2,535.96
+CA-2026-100062,2026-08-26,2026-08-28,Standard Class,Corporate,South,Furniture,Bookcases,Bookcase Model Z,357.63,1,94.18
+CA-2026-100251,2026-08-26,2026-08-28,Standard Class,Home Office,East,Office Supplies,Art,Art Model Lite,71.1,4,13.22
+CA-2026-100037,2026-08-30,2026-09-03,Standard Class,Corporate,East,Office Supplies,Storage,Storage Model Pro,64.69,3,7.17
+CA-2026-100312,2026-08-31,2026-09-03,First Class,Consumer,South,Electronics,Accessories,Accessorie Model X,648.52,5,110.95
+CA-2026-100419,2026-08-31,2026-09-03,First Class,Consumer,South,Office Supplies,Storage,Storage Model Z,310.06,5,44.89
