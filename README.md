@@ -134,6 +134,10 @@ The interactive dashboard provides a clear view of **sales performance, profitab
 
 <div align="center">
 
+  👩‍💻 Author
+
+** Poornima N **
+
 ### ⭐ Sales Performance Analysis
 
 **Created using Excel & Power BI**
