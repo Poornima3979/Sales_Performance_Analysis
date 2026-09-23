@@ -51,6 +51,7 @@ The dashboard contains **6 analytical charts and 7 KPI cards** to provide a clea
 - 💳 **Average Order Value:** ₹640.27
 - 📊 **Profit Margin:** 22.09%
 
+---
 
 ## 📗 Excel Analysis
 
