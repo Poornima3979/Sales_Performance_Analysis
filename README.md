@@ -53,14 +53,6 @@ The dashboard contains **6 analytical charts and 7 KPI cards** to provide a clea
 
 ---
 
-## 🖼️ Dashboard Preview
-
-<div align="center">
-
-<img src="Sales_Profit_Dashboard.png" alt="Sales Performance Analysis Dashboard" width="900">
-
-</div>
-
 ---
 
 ## 📗 Excel Analysis
